@@ -1,0 +1,10 @@
+Assignment Experience HW 01:
+
+
+-I really didn't experience any problems with this assignment, I found it to be simple to understand and easy to write the necessary code
+
+-The requirements specification for this assignment was not too complicated, only really requiring a function to classify different triangles by the length of their sides and the unittest cases.
+
+-The only really challenge that I ecountered with the tools was learning my way around the unittesting and even then it was not that difficult to understand
+
+-I determined that I should at least make enough test cases to test each type of triangle at least 3 times. Along with a few examples of test cases that were incorrect too. I felt that this was enough test criteria to determine if the code was functioning properly.
